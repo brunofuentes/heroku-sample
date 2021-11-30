@@ -1,2 +1,1 @@
-# export DATABASE_URL="postgresql://Bruno:1010@localhost/heroku-sample"
 export DATABASE_URL = "postgres://imftsdmsahkfqu:81d2d2e6fdba6c6d94b6f23df185458ea95182350b1eee00f26ef44006f50c53@ec2-18-211-194-36.compute-1.amazonaws.com:5432/d8flogqld7h65e"
